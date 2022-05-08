@@ -19,10 +19,7 @@
 ## &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheushenrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/mhlr_henr" target="_blank">
+<a href="https://www.instagram.com/mhlr_henri/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheushenrique-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
