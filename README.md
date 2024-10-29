@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Análise e Desenvolvimento de Sistemas 5/5
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 5/5
  
 <div style="display: inline_block"><br>
 
